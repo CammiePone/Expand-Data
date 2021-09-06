@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "expanddata",
+	"version": "${version}",
+	"name": "Expand Data",
+	"description": "Expand Donk 3: Electric Boogalee!",
+	"authors": ["Cammie"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/expanddata/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.cammiescorner.expanddata.ExpandData"
+		]
+	},
+	"mixins": [
+		"expanddata.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.11.6",
+		"fabric": "*",
+		"minecraft": "1.17.1"
+	}
+}
