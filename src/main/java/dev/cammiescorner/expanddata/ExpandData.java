@@ -5,7 +5,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class ExpandData implements ModInitializer {
-	public static final String MOD_ID = "expanddata";
+	public static final String MOD_ID = "assets/expanddata";
 	public static final Logger LOGGER = LogManager.getLogger(MOD_ID);
 
 	@Override

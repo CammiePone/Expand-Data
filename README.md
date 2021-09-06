@@ -14,6 +14,8 @@ This is a massive hack, but network usage doesn't appear to be dramatically high
 
 I swear I'm not a danger to society guys please just believe me.
 
+[<img src="./src/main/resources/assets/expanddata/icon.png" alt="Expand Data" width="256"/>](./src/main/resources/assets/expanddata/icon.png)
+
 ---
 
 <p align="center">
